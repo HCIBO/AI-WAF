@@ -16,6 +16,9 @@
 
 Traditional WAFs rely solely on rule-based detection. AI-WAF adds an **AI decision layer** that analyzes ModSecurity alerts and distinguishes between **real attacks** and **false positives**, dramatically reducing noise and improving accuracy.
 
+<img width="2739" height="5449" alt="mermaid" src="https://github.com/user-attachments/assets/2b663aaf-b452-4e4a-94f4-50d64c20f665" />
+
+
 ## 🚀 Features
 
 | Feature | Description |
