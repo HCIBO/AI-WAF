@@ -74,4 +74,4 @@ Traditional WAFs rely solely on rule-based detection. AI-WAF adds an **AI decisi
 ### One-Command Installation
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/HCIBO/AI-WAF/main/install.sh | sudo bash
+curl -sSL https://raw.githubusercontent.com/HCIBO/AI-WAF/main/install-ai-waf_en.sh | sudo bash
